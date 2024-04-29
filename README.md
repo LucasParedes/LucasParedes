@@ -1,21 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
   <h1>
-  ¡ Hola a todos !
+    Hola, soy Lucas Paredes
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### :man_technologist: Sobre mí :
 Soy Tester QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Argentina.
-- :telescope: 
+- :telescope: Trabajo como Tester QA en Connectis ICT contribuyendo en el proyecto de la APP Mi Movistar.
 
-- :seedling: 
+- :zap: En mi tiempo libre sigo capactiandome y estudiando programación
+---
 
-- :zap: 
 
-- :mailbox: Podés encontrarme en: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasparedes1/)
-
+Podés encontrarme en: 
+<img/>  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucasparedes1/)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](lutesting2@gmail.com)
+  
 ---
 
 ### :hammer_and_wrench: Languages and Dev Tools :
