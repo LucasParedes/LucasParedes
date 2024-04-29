@@ -41,9 +41,9 @@
 ### :calling: Contactame :
 <div>
   <a href="https://www.linkedin.com/in/lucasparedes1/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
   </a>
   <a href="mailto:lutesting2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" width="40" height="40"/>
   </a>
 </div>
