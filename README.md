@@ -45,5 +45,4 @@
   </a>
   <a href="mailto:lutesting2@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" width="40" height="40"/>
-  </a>
 </div>
