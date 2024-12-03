@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: Sobre mí :
-- :mag_right: Trabajo como Tester QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Connectis ICT contribuyendo en el proyecto de la APP Mi Movistar.
+- :mag_right: Trabajo como QA Automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> contribuyendo en el proyecto de la APP Mi Movistar.
 
 - :zap: En mi tiempo libre sigo capacitandome y estudiando programación.
 
